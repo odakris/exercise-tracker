@@ -6,7 +6,7 @@
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Live demo of **[URL Shortener Microservice](https://boilerplate-project-exercisetracker.odakris.repl.co/)**
+Live demo of **[Exercise Tracker](https://boilerplate-project-exercisetracker.odakris.repl.co/)**
 
 ## Description
 
