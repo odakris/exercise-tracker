@@ -31,12 +31,6 @@ const addExercise = async (req, res) => {
   let _id = req.params._id;
   let { description, duration, date } = req.body;
   
-  let isUser = await user.findById(req.body[':_id']);
-  
-  if (!isUser) {
-    res.status(400).json({ error: "Could not find any user related to this ID" });
-  }
-
   if (!description || !duration) {
     res
       .status(400)
